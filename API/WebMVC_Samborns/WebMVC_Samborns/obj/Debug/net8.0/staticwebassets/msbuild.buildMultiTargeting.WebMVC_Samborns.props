@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebMVC_Samborns.props" />
+</Project>

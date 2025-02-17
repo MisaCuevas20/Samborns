@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|d:\\misae\\documentos\\evaluacion samborns\\api\\api_samborns\\api_samborns\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|solutionrelative:api_samborns\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|d:\\misae\\documentos\\evaluacion samborns\\api\\api_samborns\\api_samborns\\models\\entities\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|solutionrelative:api_samborns\\models\\entities\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|d:\\misae\\documentos\\evaluacion samborns\\api\\api_samborns\\api_samborns\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|solutionrelative:api_samborns\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|d:\\misae\\documentos\\evaluacion samborns\\api\\api_samborns\\api_samborns\\models\\context\\empresacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|solutionrelative:api_samborns\\models\\context\\empresacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|d:\\misae\\documentos\\evaluacion samborns\\api\\api_samborns\\api_samborns\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|solutionrelative:api_samborns\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|d:\\misae\\documentos\\evaluacion samborns\\api\\api_samborns\\api_samborns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|solutionrelative:api_samborns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|d:\\misae\\documentos\\evaluacion samborns\\api\\api_samborns\\api_samborns\\models\\entities\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4512731-C43B-4B87-9758-FABC796E3BB5}|API_Samborns\\API_Samborns.csproj|solutionrelative:api_samborns\\models\\entities\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{67d15d2e-5bac-311f-82c3-d49feab601fd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c478b6ac-54a8-3bd5-bc46-494f58b422c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AreasController.cs",
+              "DocumentMoniker": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\Controllers\\AreasController.cs",
+              "RelativeDocumentMoniker": "API_Samborns\\Controllers\\AreasController.cs",
+              "ToolTip": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\Controllers\\AreasController.cs",
+              "RelativeToolTip": "API_Samborns\\Controllers\\AreasController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwFEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:57:05.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "API_Samborns\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "API_Samborns\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:56:21.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Area.cs",
+              "DocumentMoniker": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\Models\\Entities\\Area.cs",
+              "RelativeDocumentMoniker": "API_Samborns\\Models\\Entities\\Area.cs",
+              "ToolTip": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\Models\\Entities\\Area.cs",
+              "RelativeToolTip": "API_Samborns\\Models\\Entities\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:51:57.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\Models\\Entities\\Empleados.cs",
+              "RelativeDocumentMoniker": "API_Samborns\\Models\\Entities\\Empleados.cs",
+              "ToolTip": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\Models\\Entities\\Empleados.cs",
+              "RelativeToolTip": "API_Samborns\\Models\\Entities\\Empleados.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:51:46.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Samborns\\appsettings.json",
+              "ToolTip": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\appsettings.json",
+              "RelativeToolTip": "API_Samborns\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T23:51:08.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\Program.cs",
+              "RelativeDocumentMoniker": "API_Samborns\\Program.cs",
+              "ToolTip": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\Program.cs",
+              "RelativeToolTip": "API_Samborns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:50:32.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpresaContext.cs",
+              "DocumentMoniker": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\Models\\Context\\EmpresaContext.cs",
+              "RelativeDocumentMoniker": "API_Samborns\\Models\\Context\\EmpresaContext.cs",
+              "ToolTip": "D:\\misae\\Documentos\\Evaluacion Samborns\\API\\API_Samborns\\API_Samborns\\Models\\Context\\EmpresaContext.cs",
+              "RelativeToolTip": "API_Samborns\\Models\\Context\\EmpresaContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:50:10.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
